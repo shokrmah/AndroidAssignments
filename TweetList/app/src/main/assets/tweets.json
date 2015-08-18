@@ -1,0 +1,2574 @@
+{
+    "statuses": [{
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Aug 14 15:21:16 +0000 2015",
+        "id": 632210383772717000,
+        "id_str": "632210383772717056",
+        "text": "Check this out! :D https://t.co/HFMeCQwWhy via @The_Dots_UK #branding #graphicdesign #design #alphabet #layout",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 501555390,
+            "id_str": "501555390",
+            "name": "Andrei Detesan",
+            "screen_name": "AndreiDetesan",
+            "location": "Bucharest",
+            "description": "Graphic designer and Illustrator",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 41,
+            "friends_count": 228,
+            "listed_count": 2,
+            "created_at": "Fri Feb 24 07:47:01 +0000 2012",
+            "favourites_count": 7,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 31,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000021712360/2b4b82aba843c4edefc21e31bf2165c8.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000021712360/2b4b82aba843c4edefc21e31bf2165c8.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/471229263753265152/SRWUDdpa_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/471229263753265152/SRWUDdpa_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/501555390/1413563291",
+            "profile_link_color": "167A22",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 2,
+        "entities": {
+            "hashtags": [{
+                "text": "branding",
+                "indices": [60, 69]
+            }, {
+                "text": "graphicdesign",
+                "indices": [70, 84]
+            }, {
+                "text": "design",
+                "indices": [85, 92]
+            }, {
+                "text": "alphabet",
+                "indices": [93, 102]
+            }, {
+                "text": "layout",
+                "indices": [103, 110]
+            }],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "The_Dots_UK",
+                "name": "The Dots",
+                "id": 1426864291,
+                "id_str": "1426864291",
+                "indices": [47, 59]
+            }],
+            "urls": [{
+                "url": "https://t.co/HFMeCQwWhy",
+                "expanded_url": "https://the-dots.co.uk/andreidetesan/portfolio/the-alphabet-collections/204406?share_popup=1",
+                "display_url": "the-dots.co.uk/andreidetesan/…",
+                "indices": [19, 42]
+            }]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }, {
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Aug 14 15:21:07 +0000 2015",
+        "id": 632210348427378700,
+        "id_str": "632210348427378688",
+        "text": "5 things you need to know about #Google and #Alphabet  http://t.co/mh4sMW53Cv",
+        "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1205529355,
+            "id_str": "1205529355",
+            "name": "Xavier Orozco",
+            "screen_name": "Xav_DigitalMind",
+            "location": "San Francisco, CA",
+            "description": "Globetrotter Marketing Strategist passionate about #DigitalMarketing #SocialMedia & #InternetofThings",
+            "url": "http://t.co/FbLkOQFkua",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http://t.co/FbLkOQFkua",
+                        "expanded_url": "http://www.linkedin.com/in/oxavier/",
+                        "display_url": "linkedin.com/in/oxavier/",
+                        "indices": [0, 22]
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 3278,
+            "friends_count": 3228,
+            "listed_count": 177,
+            "created_at": "Thu Feb 21 17:27:05 +0000 2013",
+            "favourites_count": 57,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 7598,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "606060",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/797601918/caa731af3408ca9f56fe05460b02b9d0.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/797601918/caa731af3408ca9f56fe05460b02b9d0.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/488440264373989377/_gzWpDEM_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/488440264373989377/_gzWpDEM_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1205529355/1431850053",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [{
+                "text": "Google",
+                "indices": [32, 39]
+            }, {
+                "text": "Alphabet",
+                "indices": [44, 53]
+            }],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [{
+                "url": "http://t.co/mh4sMW53Cv",
+                "expanded_url": "http://bit.ly/1DPV8EZ",
+                "display_url": "bit.ly/1DPV8EZ",
+                "indices": [55, 77]
+            }]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }, {
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Aug 14 15:20:17 +0000 2015",
+        "id": 632210139936895000,
+        "id_str": "632210139936894976",
+        "text": "NYT article on genericization, omnigooglization and Google's new parent company #Alphabet  https://t.co/o7h24dSNob",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3303017800,
+            "id_str": "3303017800",
+            "name": "Internet Leadership",
+            "screen_name": "ISOC_NextGen",
+            "location": "Global",
+            "description": "News and views from @Internetsociety community of global technology, policy, and business leaders who are committed to keeping the Internet open and accessible.",
+            "url": "http://t.co/54IMqkked4",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http://t.co/54IMqkked4",
+                        "expanded_url": "http://www.internetsociety.org",
+                        "display_url": "internetsociety.org",
+                        "indices": [0, 22]
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 252,
+            "friends_count": 425,
+            "listed_count": 12,
+            "created_at": "Fri May 29 17:05:14 +0000 2015",
+            "favourites_count": 15,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 361,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/607666791905558529/RoZ7Uoku.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/607666791905558529/RoZ7Uoku.jpg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/607317392276877312/eq0OQJA5_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/607317392276877312/eq0OQJA5_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3303017800/1433429958",
+            "profile_link_color": "FA743E",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "quoted_status_id": 632058330366799900,
+        "quoted_status_id_str": "632058330366799872",
+        "quoted_status": {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Fri Aug 14 05:17:03 +0000 2015",
+            "id": 632058330366799900,
+            "id_str": "632058330366799872",
+            "text": "Even in the new alphabet, Google keeps its capital G http://t.co/GGLj0AQyY8",
+            "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 807095,
+                "id_str": "807095",
+                "name": "The New York Times",
+                "screen_name": "nytimes",
+                "location": "New York City",
+                "description": "Where the conversation begins. Follow for breaking news, special reports, RTs of our journalists and more from http://t.co/YapuoqX0HS",
+                "url": "http://t.co/ahvuWqicF9",
+                "entities": {
+                    "url": {
+                        "urls": [{
+                            "url": "http://t.co/ahvuWqicF9",
+                            "expanded_url": "http://www.nytimes.com/",
+                            "display_url": "nytimes.com",
+                            "indices": [0, 22]
+                        }]
+                    },
+                    "description": {
+                        "urls": [{
+                            "url": "http://t.co/YapuoqX0HS",
+                            "expanded_url": "http://NYTimes.com",
+                            "display_url": "NYTimes.com",
+                            "indices": [111, 133]
+                        }]
+                    }
+                },
+                "protected": false,
+                "followers_count": 18718631,
+                "friends_count": 993,
+                "listed_count": 164102,
+                "created_at": "Fri Mar 02 20:41:42 +0000 2007",
+                "favourites_count": 6418,
+                "utc_offset": -14400,
+                "time_zone": "Eastern Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": true,
+                "statuses_count": 194546,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": true,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2044921128/finals_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2044921128/finals_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1355346050",
+                "profile_link_color": "607696",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 91,
+            "favorite_count": 117,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [{
+                    "url": "http://t.co/GGLj0AQyY8",
+                    "expanded_url": "http://nyti.ms/1EqtZDd",
+                    "display_url": "nyti.ms/1EqtZDd",
+                    "indices": [53, 75]
+                }]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": true,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [{
+                "text": "Alphabet",
+                "indices": [80, 89]
+            }],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [{
+                "url": "https://t.co/o7h24dSNob",
+                "expanded_url": "https://twitter.com/nytimes/status/632058330366799872",
+                "display_url": "twitter.com/nytimes/status…",
+                "indices": [91, 114]
+            }]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }, {
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Aug 14 15:20:11 +0000 2015",
+        "id": 632210115119173600,
+        "id_str": "632210115119173632",
+        "text": "RT @Lanie3: #FREE #Kids #preschool #alphabet #abc\n\n**Alphabet Games For Kids + Free Coloring Book*\n\nhttp://t.co/TpR13Ei76m http://t.co/Eoyg…",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 489932364,
+            "id_str": "489932364",
+            "name": "Vanessa VanneyAuthor",
+            "screen_name": "Nessness67",
+            "location": "NYC",
+            "description": "New to Blog Talk Radio, Author of: Words of Expressions on a Page: Poetry Love, Live to Breathe, Sweet! Sweet! Love! If I had a Pen & A Family Affair",
+            "url": "http://t.co/PJkN7Ei6TI",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http://t.co/PJkN7Ei6TI",
+                        "expanded_url": "http://vanney37.blog.com",
+                        "display_url": "vanney37.blog.com",
+                        "indices": [0, 22]
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1816,
+            "friends_count": 1928,
+            "listed_count": 57,
+            "created_at": "Sun Feb 12 02:06:55 +0000 2012",
+            "favourites_count": 600,
+            "utc_offset": -10800,
+            "time_zone": "Atlantic Time (Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 11905,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "F5ABB5",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/586999043177365504/B5PGqdr0.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/586999043177365504/B5PGqdr0.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/619251825292652545/gVvyyp4U_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/619251825292652545/gVvyyp4U_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/489932364/1436476204",
+            "profile_link_color": "DD2E44",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Fri Aug 14 15:16:05 +0000 2015",
+            "id": 632209082020163600,
+            "id_str": "632209082020163584",
+            "text": "#FREE #Kids #preschool #alphabet #abc\n\n**Alphabet Games For Kids + Free Coloring Book*\n\nhttp://t.co/TpR13Ei76m http://t.co/EoygVtsYbH",
+            "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 15812876,
+                "id_str": "15812876",
+                "name": "LanieD Publishing",
+                "screen_name": "Lanie3",
+                "location": "",
+                "description": "I read, Mention, Follow and RT Indie & self pub authors because I Believe in Indie Authors.",
+                "url": "http://t.co/YPkMSrfcDS",
+                "entities": {
+                    "url": {
+                        "urls": [{
+                            "url": "http://t.co/YPkMSrfcDS",
+                            "expanded_url": "http://laniedillspublishing.com",
+                            "display_url": "laniedillspublishing.com",
+                            "indices": [0, 22]
+                        }]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 17099,
+                "friends_count": 13814,
+                "listed_count": 365,
+                "created_at": "Mon Aug 11 19:50:36 +0000 2008",
+                "favourites_count": 219,
+                "utc_offset": -25200,
+                "time_zone": "Pacific Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 23631,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "1A213D",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/625310625/mqbeachplay_1.br.jpg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/625310625/mqbeachplay_1.br.jpg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2499341911/diszxlo1xphcyd1jaxv0_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2499341911/diszxlo1xphcyd1jaxv0_normal.jpeg",
+                "profile_link_color": "AD2A25",
+                "profile_sidebar_border_color": "1A213D",
+                "profile_sidebar_fill_color": "E7A3A0",
+                "profile_text_color": "1A213D",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [{
+                    "text": "FREE",
+                    "indices": [0, 5]
+                }, {
+                    "text": "Kids",
+                    "indices": [6, 11]
+                }, {
+                    "text": "preschool",
+                    "indices": [12, 22]
+                }, {
+                    "text": "alphabet",
+                    "indices": [23, 32]
+                }, {
+                    "text": "abc",
+                    "indices": [33, 37]
+                }],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [{
+                    "url": "http://t.co/TpR13Ei76m",
+                    "expanded_url": "http://amzn.to/1gBQ8ZH",
+                    "display_url": "amzn.to/1gBQ8ZH",
+                    "indices": [88, 110]
+                }],
+                "media": [{
+                    "id": 632209081843982300,
+                    "id_str": "632209081843982336",
+                    "indices": [111, 133],
+                    "media_url": "http://pbs.twimg.com/media/CMYOz3MWIAAhg-R.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CMYOz3MWIAAhg-R.jpg",
+                    "url": "http://t.co/EoygVtsYbH",
+                    "display_url": "pic.twitter.com/EoygVtsYbH",
+                    "expanded_url": "http://twitter.com/Lanie3/status/632209082020163584/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 600,
+                            "h": 959,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 938,
+                            "h": 1500,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 543,
+                            "resize": "fit"
+                        }
+                    }
+                }]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [{
+                "text": "FREE",
+                "indices": [12, 17]
+            }, {
+                "text": "Kids",
+                "indices": [18, 23]
+            }, {
+                "text": "preschool",
+                "indices": [24, 34]
+            }, {
+                "text": "alphabet",
+                "indices": [35, 44]
+            }, {
+                "text": "abc",
+                "indices": [45, 49]
+            }],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "Lanie3",
+                "name": "LanieD Publishing",
+                "id": 15812876,
+                "id_str": "15812876",
+                "indices": [3, 10]
+            }],
+            "urls": [{
+                "url": "http://t.co/TpR13Ei76m",
+                "expanded_url": "http://amzn.to/1gBQ8ZH",
+                "display_url": "amzn.to/1gBQ8ZH",
+                "indices": [100, 122]
+            }],
+            "media": [{
+                "id": 632209081843982300,
+                "id_str": "632209081843982336",
+                "indices": [123, 140],
+                "media_url": "http://pbs.twimg.com/media/CMYOz3MWIAAhg-R.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CMYOz3MWIAAhg-R.jpg",
+                "url": "http://t.co/EoygVtsYbH",
+                "display_url": "pic.twitter.com/EoygVtsYbH",
+                "expanded_url": "http://twitter.com/Lanie3/status/632209082020163584/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 600,
+                        "h": 959,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 938,
+                        "h": 1500,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 340,
+                        "h": 543,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 632209082020163600,
+                "source_status_id_str": "632209082020163584",
+                "source_user_id": 15812876,
+                "source_user_id_str": "15812876"
+            }]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }, {
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Aug 14 15:19:54 +0000 2015",
+        "id": 632210043027460100,
+        "id_str": "632210043027460097",
+        "text": "RT @AlphaAnthropos: Yes #Iliad is trending now and before that it was #alphabet. How will I ever get off Twitter? #AncientGreek",
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 15638735,
+            "id_str": "15638735",
+            "name": "Anna Ivey",
+            "screen_name": "AnnaIvey",
+            "location": "Cambridge, MA",
+            "description": "Former dean of admissions & author. Help applicants make smart decisions about higher ed. Also w/ @Service2School (free application help for military veterans).",
+            "url": "http://t.co/UQEhiImt5I",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http://t.co/UQEhiImt5I",
+                        "expanded_url": "http://www.AnnaIvey.com",
+                        "display_url": "AnnaIvey.com",
+                        "indices": [0, 22]
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1373,
+            "friends_count": 1050,
+            "listed_count": 68,
+            "created_at": "Mon Jul 28 22:40:44 +0000 2008",
+            "favourites_count": 450,
+            "utc_offset": -14400,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 9109,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "131516",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/552646587000688640/PBUdV2Pj_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/552646587000688640/PBUdV2Pj_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/15638735/1398347489",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "EEEEEE",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Fri Aug 14 15:19:31 +0000 2015",
+            "id": 632209946457829400,
+            "id_str": "632209946457829376",
+            "text": "Yes #Iliad is trending now and before that it was #alphabet. How will I ever get off Twitter? #AncientGreek",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 1466518664,
+                "id_str": "1466518664",
+                "name": "AlphaIsForAnthropos",
+                "screen_name": "AlphaAnthropos",
+                "location": "AVAILABLE ON AMAZON",
+                "description": "ALPHA IS FOR ANTHROPOS:  A unique Ancient Greek alphabet book\r\nby Therese Sellers / Illustrated by Lucy Bell Jarka-Sellers (tweets by Therese Sellers)",
+                "url": "http://t.co/N8lZW85kje",
+                "entities": {
+                    "url": {
+                        "urls": [{
+                            "url": "http://t.co/N8lZW85kje",
+                            "expanded_url": "http://alphaisforanthropos.org/",
+                            "display_url": "alphaisforanthropos.org",
+                            "indices": [0, 22]
+                        }]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 2603,
+                "friends_count": 2548,
+                "listed_count": 64,
+                "created_at": "Wed May 29 06:00:14 +0000 2013",
+                "favourites_count": 3613,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 2767,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/3728997970/73863cde98248ab8fd01fea159224e16_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/3728997970/73863cde98248ab8fd01fea159224e16_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/1466518664/1369863559",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 2,
+            "entities": {
+                "hashtags": [{
+                    "text": "Iliad",
+                    "indices": [4, 10]
+                }, {
+                    "text": "alphabet",
+                    "indices": [50, 59]
+                }, {
+                    "text": "AncientGreek",
+                    "indices": [94, 107]
+                }],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [{
+                "text": "Iliad",
+                "indices": [24, 30]
+            }, {
+                "text": "alphabet",
+                "indices": [70, 79]
+            }, {
+                "text": "AncientGreek",
+                "indices": [114, 127]
+            }],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "AlphaAnthropos",
+                "name": "AlphaIsForAnthropos",
+                "id": 1466518664,
+                "id_str": "1466518664",
+                "indices": [3, 18]
+            }],
+            "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    }, {
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Aug 14 15:19:53 +0000 2015",
+        "id": 632210036455022600,
+        "id_str": "632210036455022592",
+        "text": "Inside #Alphabet - G Is For #Google | Video analysis by @rwang0 http://t.co/qpVfwantjP by @constellationrg",
+        "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 192171500,
+            "id_str": "192171500",
+            "name": "ConstellationR",
+            "screen_name": "ConstellationRG",
+            "location": "Global Presence",
+            "description": "Award-winning, Silicon Valley based research and advisory firm focused on helping early adopters harness the transformative power of disruptive technology.",
+            "url": "http://t.co/jZM3iPlIow",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http://t.co/jZM3iPlIow",
+                        "expanded_url": "http://www.constellationr.com",
+                        "display_url": "constellationr.com",
+                        "indices": [0, 22]
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 9393,
+            "friends_count": 6865,
+            "listed_count": 828,
+            "created_at": "Sat Sep 18 11:33:33 +0000 2010",
+            "favourites_count": 203,
+            "utc_offset": -25200,
+            "time_zone": "Pacific Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 25482,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/172378504/heavens_orion_nebula.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/172378504/heavens_orion_nebula.jpg",
+            "profile_background_tile": true,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1145783818/Screen_shot_2010-10-15_at_3.01.56_AM_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1145783818/Screen_shot_2010-10-15_at_3.01.56_AM_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/192171500/1432764662",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [{
+                "text": "Alphabet",
+                "indices": [7, 16]
+            }, {
+                "text": "Google",
+                "indices": [28, 35]
+            }],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "rwang0",
+                "name": "R Ray Wang (王瑞光)",
+                "id": 14562685,
+                "id_str": "14562685",
+                "indices": [56, 63]
+            }, {
+                "screen_name": "ConstellationRG",
+                "name": "ConstellationR",
+                "id": 192171500,
+                "id_str": "192171500",
+                "indices": [90, 106]
+            }],
+            "urls": [{
+                "url": "http://t.co/qpVfwantjP",
+                "expanded_url": "http://hubs.ly/H013Clz0",
+                "display_url": "hubs.ly/H013Clz0",
+                "indices": [64, 86]
+            }]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }, {
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Aug 14 15:19:52 +0000 2015",
+        "id": 632210032743055400,
+        "id_str": "632210032743055361",
+        "text": "IMPORTANT: http://t.co/Kt36zPQz8L #SundarPichai #alphabet #google",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 346357609,
+            "id_str": "346357609",
+            "name": "amanda.png",
+            "screen_name": "amandajaquin",
+            "location": "Brooklyn, NY",
+            "description": "creative scallywag & avid jaywalker",
+            "url": "http://t.co/zbftOSOXlp",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http://t.co/zbftOSOXlp",
+                        "expanded_url": "http://amandajaquin.com",
+                        "display_url": "amandajaquin.com",
+                        "indices": [0, 22]
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 285,
+            "friends_count": 1169,
+            "listed_count": 10,
+            "created_at": "Mon Aug 01 04:08:10 +0000 2011",
+            "favourites_count": 504,
+            "utc_offset": -14400,
+            "time_zone": "Eastern Time (US & Canada)",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 1923,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1A1A1A",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/880977479/d2cf90d0ec22c456d3211d8a660a2784.gif",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/880977479/d2cf90d0ec22c456d3211d8a660a2784.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/630612299749978113/Cn-2QVBn_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/630612299749978113/Cn-2QVBn_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/346357609/1405905511",
+            "profile_link_color": "768559",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [{
+                "text": "SundarPichai",
+                "indices": [34, 47]
+            }, {
+                "text": "alphabet",
+                "indices": [48, 57]
+            }, {
+                "text": "google",
+                "indices": [58, 65]
+            }],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [{
+                "url": "http://t.co/Kt36zPQz8L",
+                "expanded_url": "http://www.sundar.xyz/",
+                "display_url": "sundar.xyz",
+                "indices": [11, 33]
+            }]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }, {
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Aug 14 15:19:31 +0000 2015",
+        "id": 632209946457829400,
+        "id_str": "632209946457829376",
+        "text": "Yes #Iliad is trending now and before that it was #alphabet. How will I ever get off Twitter? #AncientGreek",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 1466518664,
+            "id_str": "1466518664",
+            "name": "AlphaIsForAnthropos",
+            "screen_name": "AlphaAnthropos",
+            "location": "AVAILABLE ON AMAZON",
+            "description": "ALPHA IS FOR ANTHROPOS:  A unique Ancient Greek alphabet book\r\nby Therese Sellers / Illustrated by Lucy Bell Jarka-Sellers (tweets by Therese Sellers)",
+            "url": "http://t.co/N8lZW85kje",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http://t.co/N8lZW85kje",
+                        "expanded_url": "http://alphaisforanthropos.org/",
+                        "display_url": "alphaisforanthropos.org",
+                        "indices": [0, 22]
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 2603,
+            "friends_count": 2548,
+            "listed_count": 64,
+            "created_at": "Wed May 29 06:00:14 +0000 2013",
+            "favourites_count": 3613,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 2767,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3728997970/73863cde98248ab8fd01fea159224e16_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3728997970/73863cde98248ab8fd01fea159224e16_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/1466518664/1369863559",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 2,
+        "entities": {
+            "hashtags": [{
+                "text": "Iliad",
+                "indices": [4, 10]
+            }, {
+                "text": "alphabet",
+                "indices": [50, 59]
+            }, {
+                "text": "AncientGreek",
+                "indices": [94, 107]
+            }],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": []
+        },
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+    }, {
+        "metadata": {
+            "iso_language_code": "es",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Aug 14 15:19:08 +0000 2015",
+        "id": 632209848512454700,
+        "id_str": "632209848512454656",
+        "text": "Entren en https://t.co/nLKWP0rpyC y conozcan #Alphabet. G is for Google.",
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 326572295,
+            "id_str": "326572295",
+            "name": "Maru Romeo",
+            "screen_name": "maruromeo",
+            "location": "Buenos Aires",
+            "description": "Responsable de Social Media de @Citroen_Arg | Fotógrafa | Basquetbolista frustrada | Melómana | Amante de chocolates y libros | \nOpinions and Tweets are my own!",
+            "url": "http://t.co/jEw8Jlc6IX",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http://t.co/jEw8Jlc6IX",
+                        "expanded_url": "http://ar.linkedin.com/in/msromeo/",
+                        "display_url": "ar.linkedin.com/in/msromeo/",
+                        "indices": [0, 22]
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1104,
+            "friends_count": 690,
+            "listed_count": 28,
+            "created_at": "Thu Jun 30 04:01:50 +0000 2011",
+            "favourites_count": 2179,
+            "utc_offset": -10800,
+            "time_zone": "Buenos Aires",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 11540,
+            "lang": "es",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "000000",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/593201693866774528/Uws0SxO2_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/593201693866774528/Uws0SxO2_normal.jpg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/326572295/1437171685",
+            "profile_link_color": "9266CC",
+            "profile_sidebar_border_color": "000000",
+            "profile_sidebar_fill_color": "000000",
+            "profile_text_color": "000000",
+            "profile_use_background_image": false,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [{
+                "text": "Alphabet",
+                "indices": [45, 54]
+            }],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [{
+                "url": "https://t.co/nLKWP0rpyC",
+                "expanded_url": "https://abc.xyz/",
+                "display_url": "abc.xyz",
+                "indices": [10, 33]
+            }]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "es"
+    }, {
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Aug 14 15:17:03 +0000 2015",
+        "id": 632209323670634500,
+        "id_str": "632209323670634496",
+        "text": "RT @Lanie3: #FREE #Kids #preschool #alphabet #abc\n\n**Alphabet Games For Kids + Free Coloring Book*\n\nhttp://t.co/TpR13Ei76m http://t.co/Eoyg…",
+        "source": "<a href=\"http://readersgazette.com/\" rel=\"nofollow\">rgbookworldbot</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3072312415,
+            "id_str": "3072312415",
+            "name": "RGBookWorld",
+            "screen_name": "RGBookWorld",
+            "location": "",
+            "description": "A Quiet Place For Readers To Find Books. \nWe will soon only be tweeting authors that follow us.\n Associated to ReadersGazette",
+            "url": "http://t.co/JGOWaqrnok",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http://t.co/JGOWaqrnok",
+                        "expanded_url": "http://ReadersGazette.Com",
+                        "display_url": "ReadersGazette.Com",
+                        "indices": [0, 22]
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 8362,
+            "friends_count": 8056,
+            "listed_count": 1121,
+            "created_at": "Wed Mar 11 03:08:40 +0000 2015",
+            "favourites_count": 4341,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 143954,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/575497160923291649/wdMaadhY_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/575497160923291649/wdMaadhY_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3072312415/1426045086",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Fri Aug 14 15:16:05 +0000 2015",
+            "id": 632209082020163600,
+            "id_str": "632209082020163584",
+            "text": "#FREE #Kids #preschool #alphabet #abc\n\n**Alphabet Games For Kids + Free Coloring Book*\n\nhttp://t.co/TpR13Ei76m http://t.co/EoygVtsYbH",
+            "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 15812876,
+                "id_str": "15812876",
+                "name": "LanieD Publishing",
+                "screen_name": "Lanie3",
+                "location": "",
+                "description": "I read, Mention, Follow and RT Indie & self pub authors because I Believe in Indie Authors.",
+                "url": "http://t.co/YPkMSrfcDS",
+                "entities": {
+                    "url": {
+                        "urls": [{
+                            "url": "http://t.co/YPkMSrfcDS",
+                            "expanded_url": "http://laniedillspublishing.com",
+                            "display_url": "laniedillspublishing.com",
+                            "indices": [0, 22]
+                        }]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 17099,
+                "friends_count": 13814,
+                "listed_count": 365,
+                "created_at": "Mon Aug 11 19:50:36 +0000 2008",
+                "favourites_count": 219,
+                "utc_offset": -25200,
+                "time_zone": "Pacific Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 23631,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "1A213D",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/625310625/mqbeachplay_1.br.jpg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/625310625/mqbeachplay_1.br.jpg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2499341911/diszxlo1xphcyd1jaxv0_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2499341911/diszxlo1xphcyd1jaxv0_normal.jpeg",
+                "profile_link_color": "AD2A25",
+                "profile_sidebar_border_color": "1A213D",
+                "profile_sidebar_fill_color": "E7A3A0",
+                "profile_text_color": "1A213D",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [{
+                    "text": "FREE",
+                    "indices": [0, 5]
+                }, {
+                    "text": "Kids",
+                    "indices": [6, 11]
+                }, {
+                    "text": "preschool",
+                    "indices": [12, 22]
+                }, {
+                    "text": "alphabet",
+                    "indices": [23, 32]
+                }, {
+                    "text": "abc",
+                    "indices": [33, 37]
+                }],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [{
+                    "url": "http://t.co/TpR13Ei76m",
+                    "expanded_url": "http://amzn.to/1gBQ8ZH",
+                    "display_url": "amzn.to/1gBQ8ZH",
+                    "indices": [88, 110]
+                }],
+                "media": [{
+                    "id": 632209081843982300,
+                    "id_str": "632209081843982336",
+                    "indices": [111, 133],
+                    "media_url": "http://pbs.twimg.com/media/CMYOz3MWIAAhg-R.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CMYOz3MWIAAhg-R.jpg",
+                    "url": "http://t.co/EoygVtsYbH",
+                    "display_url": "pic.twitter.com/EoygVtsYbH",
+                    "expanded_url": "http://twitter.com/Lanie3/status/632209082020163584/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 600,
+                            "h": 959,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 938,
+                            "h": 1500,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 543,
+                            "resize": "fit"
+                        }
+                    }
+                }]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [{
+                "text": "FREE",
+                "indices": [12, 17]
+            }, {
+                "text": "Kids",
+                "indices": [18, 23]
+            }, {
+                "text": "preschool",
+                "indices": [24, 34]
+            }, {
+                "text": "alphabet",
+                "indices": [35, 44]
+            }, {
+                "text": "abc",
+                "indices": [45, 49]
+            }],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "Lanie3",
+                "name": "LanieD Publishing",
+                "id": 15812876,
+                "id_str": "15812876",
+                "indices": [3, 10]
+            }],
+            "urls": [{
+                "url": "http://t.co/TpR13Ei76m",
+                "expanded_url": "http://amzn.to/1gBQ8ZH",
+                "display_url": "amzn.to/1gBQ8ZH",
+                "indices": [100, 122]
+            }],
+            "media": [{
+                "id": 632209081843982300,
+                "id_str": "632209081843982336",
+                "indices": [123, 140],
+                "media_url": "http://pbs.twimg.com/media/CMYOz3MWIAAhg-R.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CMYOz3MWIAAhg-R.jpg",
+                "url": "http://t.co/EoygVtsYbH",
+                "display_url": "pic.twitter.com/EoygVtsYbH",
+                "expanded_url": "http://twitter.com/Lanie3/status/632209082020163584/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 600,
+                        "h": 959,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 938,
+                        "h": 1500,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 340,
+                        "h": 543,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 632209082020163600,
+                "source_status_id_str": "632209082020163584",
+                "source_user_id": 15812876,
+                "source_user_id_str": "15812876"
+            }]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }, {
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Aug 14 15:17:02 +0000 2015",
+        "id": 632209322273976300,
+        "id_str": "632209322273976320",
+        "text": "RT @FiverDesertGirl: #FREE #Kids #preschool #alphabet #abc\n\n**Alphabet Games For Kids + Free Coloring Book*\n\nhttp://t.co/9KKGJqMdSY http://…",
+        "source": "<a href=\"http://readersgazette.com/\" rel=\"nofollow\">rgbookworldbot</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 3072312415,
+            "id_str": "3072312415",
+            "name": "RGBookWorld",
+            "screen_name": "RGBookWorld",
+            "location": "",
+            "description": "A Quiet Place For Readers To Find Books. \nWe will soon only be tweeting authors that follow us.\n Associated to ReadersGazette",
+            "url": "http://t.co/JGOWaqrnok",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http://t.co/JGOWaqrnok",
+                        "expanded_url": "http://ReadersGazette.Com",
+                        "display_url": "ReadersGazette.Com",
+                        "indices": [0, 22]
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 8362,
+            "friends_count": 8056,
+            "listed_count": 1121,
+            "created_at": "Wed Mar 11 03:08:40 +0000 2015",
+            "favourites_count": 4341,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 143954,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/575497160923291649/wdMaadhY_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/575497160923291649/wdMaadhY_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/3072312415/1426045086",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Fri Aug 14 15:16:09 +0000 2015",
+            "id": 632209097232904200,
+            "id_str": "632209097232904193",
+            "text": "#FREE #Kids #preschool #alphabet #abc\n\n**Alphabet Games For Kids + Free Coloring Book*\n\nhttp://t.co/9KKGJqMdSY http://t.co/jPRR3a0E0v",
+            "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 957736430,
+                "id_str": "957736430",
+                "name": "TheDesertGirl",
+                "screen_name": "FiverDesertGirl",
+                "location": "Albuquerque",
+                "description": "I am an indie author and I submit Kindle books for promotion (2,500 + and counting) for every budget ..starting at $5.00  (Free and .99 Books)",
+                "url": "http://t.co/lOWJdVNufe",
+                "entities": {
+                    "url": {
+                        "urls": [{
+                            "url": "http://t.co/lOWJdVNufe",
+                            "expanded_url": "http://freediscountedbooks.com/",
+                            "display_url": "freediscountedbooks.com",
+                            "indices": [0, 22]
+                        }]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 11103,
+                "friends_count": 8665,
+                "listed_count": 246,
+                "created_at": "Mon Nov 19 16:09:01 +0000 2012",
+                "favourites_count": 22,
+                "utc_offset": -25200,
+                "time_zone": "Arizona",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 17157,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/3640946418/5eaae5de55329a056b0073db07c330db_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/3640946418/5eaae5de55329a056b0073db07c330db_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/957736430/1373590858",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [{
+                    "text": "FREE",
+                    "indices": [0, 5]
+                }, {
+                    "text": "Kids",
+                    "indices": [6, 11]
+                }, {
+                    "text": "preschool",
+                    "indices": [12, 22]
+                }, {
+                    "text": "alphabet",
+                    "indices": [23, 32]
+                }, {
+                    "text": "abc",
+                    "indices": [33, 37]
+                }],
+                "symbols": [],
+                "user_mentions": [],
+                "urls": [{
+                    "url": "http://t.co/9KKGJqMdSY",
+                    "expanded_url": "http://amzn.to/1gBQ8ZL",
+                    "display_url": "amzn.to/1gBQ8ZL",
+                    "indices": [88, 110]
+                }],
+                "media": [{
+                    "id": 632209097136447500,
+                    "id_str": "632209097136447489",
+                    "indices": [111, 133],
+                    "media_url": "http://pbs.twimg.com/media/CMYO0wKWoAEy542.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CMYO0wKWoAEy542.jpg",
+                    "url": "http://t.co/jPRR3a0E0v",
+                    "display_url": "pic.twitter.com/jPRR3a0E0v",
+                    "expanded_url": "http://twitter.com/FiverDesertGirl/status/632209097232904193/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "medium": {
+                            "w": 600,
+                            "h": 959,
+                            "resize": "fit"
+                        },
+                        "large": {
+                            "w": 938,
+                            "h": 1500,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 543,
+                            "resize": "fit"
+                        }
+                    }
+                }]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [{
+                "text": "FREE",
+                "indices": [21, 26]
+            }, {
+                "text": "Kids",
+                "indices": [27, 32]
+            }, {
+                "text": "preschool",
+                "indices": [33, 43]
+            }, {
+                "text": "alphabet",
+                "indices": [44, 53]
+            }, {
+                "text": "abc",
+                "indices": [54, 58]
+            }],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "FiverDesertGirl",
+                "name": "TheDesertGirl",
+                "id": 957736430,
+                "id_str": "957736430",
+                "indices": [3, 19]
+            }],
+            "urls": [{
+                "url": "http://t.co/9KKGJqMdSY",
+                "expanded_url": "http://amzn.to/1gBQ8ZL",
+                "display_url": "amzn.to/1gBQ8ZL",
+                "indices": [109, 131]
+            }],
+            "media": [{
+                "id": 632209097136447500,
+                "id_str": "632209097136447489",
+                "indices": [139, 140],
+                "media_url": "http://pbs.twimg.com/media/CMYO0wKWoAEy542.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CMYO0wKWoAEy542.jpg",
+                "url": "http://t.co/jPRR3a0E0v",
+                "display_url": "pic.twitter.com/jPRR3a0E0v",
+                "expanded_url": "http://twitter.com/FiverDesertGirl/status/632209097232904193/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 600,
+                        "h": 959,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 938,
+                        "h": 1500,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 340,
+                        "h": 543,
+                        "resize": "fit"
+                    }
+                },
+                "source_status_id": 632209097232904200,
+                "source_status_id_str": "632209097232904193",
+                "source_user_id": 957736430,
+                "source_user_id_str": "957736430"
+            }]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }, {
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Aug 14 15:16:57 +0000 2015",
+        "id": 632209298005725200,
+        "id_str": "632209298005725184",
+        "text": "RT @nhasive: Just published a blog post about @google &amp; #Alphabet in my personal blog http://t.co/q5gqWqcOpr #google #nch #nchblog http://t…",
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 218515010,
+            "id_str": "218515010",
+            "name": "Nusrat Jahan",
+            "screen_name": "imnusratjahan",
+            "location": "Dhaka",
+            "description": "Executive Officer | Janata Bank Ltd.",
+            "url": null,
+            "entities": {
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 712,
+            "friends_count": 79,
+            "listed_count": 1,
+            "created_at": "Mon Nov 22 15:14:33 +0000 2010",
+            "favourites_count": 49,
+            "utc_offset": null,
+            "time_zone": null,
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 126,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "0099B9",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/378800000468491806/fdcc7ee26c5524f7e9b3e1a121f7c49d_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000468491806/fdcc7ee26c5524f7e9b3e1a121f7c49d_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/218515010/1412924235",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "99CC33",
+            "profile_text_color": "3E4415",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Wed Aug 12 12:26:41 +0000 2015",
+            "id": 631441673587814400,
+            "id_str": "631441673587814401",
+            "text": "Just published a blog post about @google &amp; #Alphabet in my personal blog http://t.co/q5gqWqcOpr #google #nch #nchblog http://t.co/wcAiMwiuqE",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 53717936,
+                "id_str": "53717936",
+                "name": "Nurunnaby Hasive",
+                "screen_name": "nhasive",
+                "location": "Dhaka, Bangladesh",
+                "description": "@ProthomAlo Journalist & Social Media Expert; @bnwikipedia Admin; @WikimediaBD Director; @OKFnBD Ambassador; @MozillaBD Member; Translator; Author",
+                "url": "http://t.co/c5cjjsBBIf",
+                "entities": {
+                    "url": {
+                        "urls": [{
+                            "url": "http://t.co/c5cjjsBBIf",
+                            "expanded_url": "http://www.nhasive.com",
+                            "display_url": "nhasive.com",
+                            "indices": [0, 22]
+                        }]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 5434,
+                "friends_count": 3848,
+                "listed_count": 104,
+                "created_at": "Sat Jul 04 17:33:01 +0000 2009",
+                "favourites_count": 524,
+                "utc_offset": 21600,
+                "time_zone": "Dhaka",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 12727,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "0099B9",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/617288986625597441/95qNGPBA_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/617288986625597441/95qNGPBA_normal.jpg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/53717936/1438072020",
+                "profile_link_color": "0099B9",
+                "profile_sidebar_border_color": "5ED4DC",
+                "profile_sidebar_fill_color": "95E8EC",
+                "profile_text_color": "3C3940",
+                "profile_use_background_image": true,
+                "has_extended_profile": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "is_quote_status": false,
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [{
+                    "text": "Alphabet",
+                    "indices": [47, 56]
+                }, {
+                    "text": "google",
+                    "indices": [100, 107]
+                }, {
+                    "text": "nch",
+                    "indices": [108, 112]
+                }, {
+                    "text": "nchblog",
+                    "indices": [113, 121]
+                }],
+                "symbols": [],
+                "user_mentions": [{
+                    "screen_name": "google",
+                    "name": "Google",
+                    "id": 20536157,
+                    "id_str": "20536157",
+                    "indices": [33, 40]
+                }],
+                "urls": [{
+                    "url": "http://t.co/q5gqWqcOpr",
+                    "expanded_url": "http://nhasive.com/googleandalphabet",
+                    "display_url": "nhasive.com/googleandalpha…",
+                    "indices": [77, 99]
+                }],
+                "media": [{
+                    "id": 631441672010739700,
+                    "id_str": "631441672010739712",
+                    "indices": [122, 144],
+                    "media_url": "http://pbs.twimg.com/media/CMNU2uyUMAAq811.jpg",
+                    "media_url_https": "https://pbs.twimg.com/media/CMNU2uyUMAAq811.jpg",
+                    "url": "http://t.co/wcAiMwiuqE",
+                    "display_url": "pic.twitter.com/wcAiMwiuqE",
+                    "expanded_url": "http://twitter.com/nhasive/status/631441673587814401/photo/1",
+                    "type": "photo",
+                    "sizes": {
+                        "large": {
+                            "w": 620,
+                            "h": 372,
+                            "resize": "fit"
+                        },
+                        "medium": {
+                            "w": 600,
+                            "h": 360,
+                            "resize": "fit"
+                        },
+                        "small": {
+                            "w": 340,
+                            "h": 204,
+                            "resize": "fit"
+                        },
+                        "thumb": {
+                            "w": 150,
+                            "h": 150,
+                            "resize": "crop"
+                        }
+                    }
+                }]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 4,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [{
+                "text": "Alphabet",
+                "indices": [60, 69]
+            }, {
+                "text": "google",
+                "indices": [113, 120]
+            }, {
+                "text": "nch",
+                "indices": [121, 125]
+            }, {
+                "text": "nchblog",
+                "indices": [126, 134]
+            }],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "nhasive",
+                "name": "Nurunnaby Hasive",
+                "id": 53717936,
+                "id_str": "53717936",
+                "indices": [3, 11]
+            }, {
+                "screen_name": "google",
+                "name": "Google",
+                "id": 20536157,
+                "id_str": "20536157",
+                "indices": [46, 53]
+            }],
+            "urls": [{
+                "url": "http://t.co/q5gqWqcOpr",
+                "expanded_url": "http://nhasive.com/googleandalphabet",
+                "display_url": "nhasive.com/googleandalpha…",
+                "indices": [90, 112]
+            }],
+            "media": [{
+                "id": 631441672010739700,
+                "id_str": "631441672010739712",
+                "indices": [143, 144],
+                "media_url": "http://pbs.twimg.com/media/CMNU2uyUMAAq811.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CMNU2uyUMAAq811.jpg",
+                "url": "http://t.co/wcAiMwiuqE",
+                "display_url": "pic.twitter.com/wcAiMwiuqE",
+                "expanded_url": "http://twitter.com/nhasive/status/631441673587814401/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "large": {
+                        "w": 620,
+                        "h": 372,
+                        "resize": "fit"
+                    },
+                    "medium": {
+                        "w": 600,
+                        "h": 360,
+                        "resize": "fit"
+                    },
+                    "small": {
+                        "w": 340,
+                        "h": 204,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    }
+                },
+                "source_status_id": 631441673587814400,
+                "source_status_id_str": "631441673587814401",
+                "source_user_id": 53717936,
+                "source_user_id_str": "53717936"
+            }]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }, {
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Aug 14 15:16:09 +0000 2015",
+        "id": 632209097232904200,
+        "id_str": "632209097232904193",
+        "text": "#FREE #Kids #preschool #alphabet #abc\n\n**Alphabet Games For Kids + Free Coloring Book*\n\nhttp://t.co/9KKGJqMdSY http://t.co/jPRR3a0E0v",
+        "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 957736430,
+            "id_str": "957736430",
+            "name": "TheDesertGirl",
+            "screen_name": "FiverDesertGirl",
+            "location": "Albuquerque",
+            "description": "I am an indie author and I submit Kindle books for promotion (2,500 + and counting) for every budget ..starting at $5.00  (Free and .99 Books)",
+            "url": "http://t.co/lOWJdVNufe",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http://t.co/lOWJdVNufe",
+                        "expanded_url": "http://freediscountedbooks.com/",
+                        "display_url": "freediscountedbooks.com",
+                        "indices": [0, 22]
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 11103,
+            "friends_count": 8665,
+            "listed_count": 246,
+            "created_at": "Mon Nov 19 16:09:01 +0000 2012",
+            "favourites_count": 22,
+            "utc_offset": -25200,
+            "time_zone": "Arizona",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 17157,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/3640946418/5eaae5de55329a056b0073db07c330db_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/3640946418/5eaae5de55329a056b0073db07c330db_normal.jpeg",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/957736430/1373590858",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": true,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [{
+                "text": "FREE",
+                "indices": [0, 5]
+            }, {
+                "text": "Kids",
+                "indices": [6, 11]
+            }, {
+                "text": "preschool",
+                "indices": [12, 22]
+            }, {
+                "text": "alphabet",
+                "indices": [23, 32]
+            }, {
+                "text": "abc",
+                "indices": [33, 37]
+            }],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [{
+                "url": "http://t.co/9KKGJqMdSY",
+                "expanded_url": "http://amzn.to/1gBQ8ZL",
+                "display_url": "amzn.to/1gBQ8ZL",
+                "indices": [88, 110]
+            }],
+            "media": [{
+                "id": 632209097136447500,
+                "id_str": "632209097136447489",
+                "indices": [111, 133],
+                "media_url": "http://pbs.twimg.com/media/CMYO0wKWoAEy542.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CMYO0wKWoAEy542.jpg",
+                "url": "http://t.co/jPRR3a0E0v",
+                "display_url": "pic.twitter.com/jPRR3a0E0v",
+                "expanded_url": "http://twitter.com/FiverDesertGirl/status/632209097232904193/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 600,
+                        "h": 959,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 938,
+                        "h": 1500,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 340,
+                        "h": 543,
+                        "resize": "fit"
+                    }
+                }
+            }]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }, {
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Aug 14 15:16:05 +0000 2015",
+        "id": 632209082020163600,
+        "id_str": "632209082020163584",
+        "text": "#FREE #Kids #preschool #alphabet #abc\n\n**Alphabet Games For Kids + Free Coloring Book*\n\nhttp://t.co/TpR13Ei76m http://t.co/EoygVtsYbH",
+        "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 15812876,
+            "id_str": "15812876",
+            "name": "LanieD Publishing",
+            "screen_name": "Lanie3",
+            "location": "",
+            "description": "I read, Mention, Follow and RT Indie & self pub authors because I Believe in Indie Authors.",
+            "url": "http://t.co/YPkMSrfcDS",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http://t.co/YPkMSrfcDS",
+                        "expanded_url": "http://laniedillspublishing.com",
+                        "display_url": "laniedillspublishing.com",
+                        "indices": [0, 22]
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 17099,
+            "friends_count": 13814,
+            "listed_count": 365,
+            "created_at": "Mon Aug 11 19:50:36 +0000 2008",
+            "favourites_count": 219,
+            "utc_offset": -25200,
+            "time_zone": "Pacific Time (US & Canada)",
+            "geo_enabled": false,
+            "verified": false,
+            "statuses_count": 23631,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "1A213D",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/625310625/mqbeachplay_1.br.jpg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/625310625/mqbeachplay_1.br.jpg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/2499341911/diszxlo1xphcyd1jaxv0_normal.jpeg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/2499341911/diszxlo1xphcyd1jaxv0_normal.jpeg",
+            "profile_link_color": "AD2A25",
+            "profile_sidebar_border_color": "1A213D",
+            "profile_sidebar_fill_color": "E7A3A0",
+            "profile_text_color": "1A213D",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [{
+                "text": "FREE",
+                "indices": [0, 5]
+            }, {
+                "text": "Kids",
+                "indices": [6, 11]
+            }, {
+                "text": "preschool",
+                "indices": [12, 22]
+            }, {
+                "text": "alphabet",
+                "indices": [23, 32]
+            }, {
+                "text": "abc",
+                "indices": [33, 37]
+            }],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [{
+                "url": "http://t.co/TpR13Ei76m",
+                "expanded_url": "http://amzn.to/1gBQ8ZH",
+                "display_url": "amzn.to/1gBQ8ZH",
+                "indices": [88, 110]
+            }],
+            "media": [{
+                "id": 632209081843982300,
+                "id_str": "632209081843982336",
+                "indices": [111, 133],
+                "media_url": "http://pbs.twimg.com/media/CMYOz3MWIAAhg-R.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/CMYOz3MWIAAhg-R.jpg",
+                "url": "http://t.co/EoygVtsYbH",
+                "display_url": "pic.twitter.com/EoygVtsYbH",
+                "expanded_url": "http://twitter.com/Lanie3/status/632209082020163584/photo/1",
+                "type": "photo",
+                "sizes": {
+                    "medium": {
+                        "w": 600,
+                        "h": 959,
+                        "resize": "fit"
+                    },
+                    "large": {
+                        "w": 938,
+                        "h": 1500,
+                        "resize": "fit"
+                    },
+                    "thumb": {
+                        "w": 150,
+                        "h": 150,
+                        "resize": "crop"
+                    },
+                    "small": {
+                        "w": 340,
+                        "h": 543,
+                        "resize": "fit"
+                    }
+                }
+            }]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }, {
+        "metadata": {
+            "iso_language_code": "en",
+            "result_type": "recent"
+        },
+        "created_at": "Fri Aug 14 15:16:01 +0000 2015",
+        "id": 632209063758184400,
+        "id_str": "632209063758184448",
+        "text": "Is fear a factor behind #Google's radical reorganisation as #Alphabet? http://t.co/6fI8g0vB30 .@guyhatton",
+        "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+        "truncated": false,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "user": {
+            "id": 361170911,
+            "id_str": "361170911",
+            "name": "Ultimate Asset",
+            "screen_name": "UltimateAsset",
+            "location": "#London #Singapore",
+            "description": "Working with the worlds biggest digital & media agencies & global brands. Sourcing the best talent in the industry since 2005. Follow us for industry news",
+            "url": "http://t.co/UKeM1tP5jy",
+            "entities": {
+                "url": {
+                    "urls": [{
+                        "url": "http://t.co/UKeM1tP5jy",
+                        "expanded_url": "http://www.ultimateasset.com",
+                        "display_url": "ultimateasset.com",
+                        "indices": [0, 22]
+                    }]
+                },
+                "description": {
+                    "urls": []
+                }
+            },
+            "protected": false,
+            "followers_count": 1252,
+            "friends_count": 1982,
+            "listed_count": 191,
+            "created_at": "Wed Aug 24 11:00:58 +0000 2011",
+            "favourites_count": 1287,
+            "utc_offset": 3600,
+            "time_zone": "London",
+            "geo_enabled": true,
+            "verified": false,
+            "statuses_count": 4564,
+            "lang": "en",
+            "contributors_enabled": false,
+            "is_translator": false,
+            "is_translation_enabled": false,
+            "profile_background_color": "022330",
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/807723883/8acfd657e41808b32236f0054033f65f.jpeg",
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/807723883/8acfd657e41808b32236f0054033f65f.jpeg",
+            "profile_background_tile": false,
+            "profile_image_url": "http://pbs.twimg.com/profile_images/458916193735159809/uqcA8SNh_normal.png",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/458916193735159809/uqcA8SNh_normal.png",
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/361170911/1433405879",
+            "profile_link_color": "32AEAA",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "C0DFEC",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "has_extended_profile": false,
+            "default_profile": false,
+            "default_profile_image": false,
+            "following": false,
+            "follow_request_sent": false,
+            "notifications": false
+        },
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "favorite_count": 0,
+        "entities": {
+            "hashtags": [{
+                "text": "Google",
+                "indices": [24, 31]
+            }, {
+                "text": "Alphabet",
+                "indices": [60, 69]
+            }],
+            "symbols": [],
+            "user_mentions": [{
+                "screen_name": "guyhatton",
+                "name": "guyhatton",
+                "id": 16713004,
+                "id_str": "16713004",
+                "indices": [95, 105]
+            }],
+            "urls": [{
+                "url": "http://t.co/6fI8g0vB30",
+                "expanded_url": "http://ow.ly/QToJN",
+                "display_url": "ow.ly/QToJN",
+                "indices": [71, 93]
+            }]
+        },
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+    }],
+    "search_metadata": {
+        "completed_in": 0.037,
+        "max_id": 632210383772717000,
+        "max_id_str": "632210383772717056",
+        "next_results": "?max_id=632209063758184447&q=%23alphabet&include_entities=1",
+        "query": "%23alphabet",
+        "refresh_url": "?since_id=632210383772717056&q=%23alphabet&include_entities=1",
+        "count": 15,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}

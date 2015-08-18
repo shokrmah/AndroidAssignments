@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Twitter</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="names">
+        <item>Ahmed</item>
+        <item>Fawzy</item>
+        <item>Manal</item>
+        <item>Sobhy</item>
+        <item>Mohamed</item>
+        <item>Esraa</item>
+        <item>Kamal</item>
+        <item>Riham</item>
+
+    </string-array>
+
+    <string-array name="accountnames">
+        <item>/@Ahmed</item>
+        <item>/@Fawzy</item>
+        <item>/@Manal</item>
+        <item>/@Sobhy</item>
+        <item>/@Mohamed</item>
+        <item>/@Esraa</item>
+        <item>/@Kamal</item>
+        <item>/@Riham</item>
+
+    </string-array>
+
+    <string-array name="time">
+        <item>3 hours</item>
+        <item>10 mins</item>
+        <item>3 hours</item>
+        <item>3 hours</item>
+        <item>2 mins</item>
+        <item>1 day</item>
+        <item>2 mins</item>
+        <item>30 secs</item>
+
+    </string-array>
+
+
+
+    <string-array name="tweets">
+        <item>Hello!</item>
+        <item>Hiii!</item>
+        <item>Life</item>
+        <item>Too hot</item>
+        <item>neighbour</item>
+        <item>Hiii!</item>
+        <item>Goo</item>
+        <item>Hello!</item>
+    </string-array>
+</resources>
